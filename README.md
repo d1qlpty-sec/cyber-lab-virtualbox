@@ -43,6 +43,14 @@ Kali (Attacker) ─ pfSense (Firewall/NAT) ─ Internal LAN ─ Linux/Windows/Me
 
 ## Screenshots
 
+**VM list (VirtualBox)**  
+![VM list](screenshots/01_vms_list.png "List of virtual machines in VirtualBox")
+
+**pfSense — Adapter 2 (Internal LAN)**  
+![pfSense Adapter 2 — Internal LAN](screenshots/02_pfsense_adapter2_internallan.png "pfSense: Adapter 2 = Internal Network")
+
+**pfSense — Adapter 1 (Bridged / Host network)**  
+![pfSense Adapter 1 — Bridged](screenshots/03_pfsense_adapter1_bridged.png "pfSense: Adapter 1 = Bridged to host")
 
 ---
 
